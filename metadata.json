@@ -1,0 +1,6 @@
+{
+  "name": "StaffPulse - Employer Attendance & Payroll Manager",
+  "description": "Comprehensive employee attendance maintenance, advance tracking, overtime calculation, and automated monthly payroll adjustments for employers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
